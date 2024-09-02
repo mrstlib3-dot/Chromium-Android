@@ -1,3 +1,6 @@
+## 默认全屏、使用桌面版UA
+
+
 ![Logo](screenshots/app_icon.png?raw=true "Logo")
 
 # Chromium Android
