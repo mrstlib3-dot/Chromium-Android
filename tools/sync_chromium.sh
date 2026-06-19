@@ -288,7 +288,7 @@ sync_libs() {
 }
 
 sync_jniLibs() {
-	local jni_libs_dir="${APP_DIR}/src/main/jniLibs/armeabi-v7a"
+	local jni_libs_dir="${APP_DIR}/src/main/jniLibs/arm64-v8a"
 	mkdir -p "$jni_libs_dir"
 	cp ${RELEASE_DIR}/*.so "$jni_libs_dir"
 }
